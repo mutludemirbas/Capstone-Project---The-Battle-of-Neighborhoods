@@ -1,4 +1,4 @@
-# Capstone-Project---The-Battle-of-Neighborhoods
+# Recommended Restaurant Locations in Istanbul
 ## Week 1
 ### Background
 
@@ -20,15 +20,15 @@ There are different target audience for this work;
 4. Property Owners
 
 
-
 ## Week 2
 ### Data Acquisition and Cleaning 
 #### Data Sources
-Neighbors of Istanbul and their population densities collected from [atlasbig](https://www.atlasbig.com/tr/istanbul-mahalleleri-nufus-yogunlugu "Population Density Map of Istanbul by Neighborhood") 
-Counties of Istanbul and their financial index values collected from the report ["HUMAN DEVELOPMENT INDEX - DISTRICTS (İGE-İ) 2017 TRANSITION FROM CONSUMER TO HUMAN"](http://ingev.org/raporlar/IGE_RAPOR_2017.pdf "HUMAN DEVELOPMENT INDEX - DISTRICTS") , section: 2.3.3. by Prof.Dr. Murat Seker
-Average Monthly Income by Districts and Top 20 Neighborhoods by Average monhtly Income ["Here are the richest districts of Istanbul (income distribution by districts in Istanbul)"](https://www.posta.com.tr/iste-istanbul-un-en-zengin-ilceleri-istanbul-da-ilcelere-gore-gelir-dagilimi-haber-fotograf-1359815-8")
-
+* Neighbors of Istanbul and their population densities collected from [atlasbig](https://www.atlasbig.com/tr/istanbul-mahalleleri-nufus-yogunlugu "Population Density Map of Istanbul by Neighborhood") saved as neigborhoods.csv .
+* Counties of Istanbul and their financial index values collected from the report ["HUMAN DEVELOPMENT INDEX - DISTRICTS (İGE-İ) 2017 TRANSITION FROM CONSUMER TO HUMAN"](http://ingev.org/raporlar/IGE_RAPOR_2017.pdf "HUMAN DEVELOPMENT INDEX - DISTRICTS"), section: 2.3.3. by Prof.Dr. Murat Seker saved as istanbul-districts-financial-index-2017.txt
+* Average Monthly Income by Districts and Top 20 Neighborhoods by Average monhtly Income ["Here are the richest districts of Istanbul (income distribution by districts in Istanbul)"](https://www.posta.com.tr/iste-istanbul-un-en-zengin-ilceleri-istanbul-da-ilcelere-gore-gelir-dagilimi-haber-fotograf-1359815-8") saved as istanbul-districts-income-2017.xlsx and istanbul-top-neighborhoods-income-2017-dec.xlsx
 #### Data Cleaning
+
+
 #### Feature Selection
 ### Exploratory Data Analysis
 #### Calculation of target variable
